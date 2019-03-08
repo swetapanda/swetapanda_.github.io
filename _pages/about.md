@@ -29,7 +29,7 @@ For more information, please refer to my [CV](http://swetapanda.github.io/files/
 1. Stackelberg games for vaccine design. <small><b>AAMAS 2015</b></small> [.pdf](http://www.vorobeychik.com/2015/abdesign.pdf)<br />
   <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
 
-1. Designing vaccines that are robust to virus escape. <small><b>AAAI 2015</b></small> [.pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9306/9726)<br />
+1. Designing vaccines that are robust to virus escape. <small><b>AAAI 2015</b></small> <br />
 <small> Swetasudha Panda and Yevgeniy Vorobeychik.</small>
 
 1. Robust optic nerve segmentation on clinically acquired CT. <small><b>SPIE 2014</b></small> [.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4013110/pdf/nihms550000.pdf)<br />
