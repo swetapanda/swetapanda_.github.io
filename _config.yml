@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Brief Bio"
+#title                    : "Brief Bio"
 title_separator          : "-"
 name                     : &name "Swetasudha Panda"
 description              : &description "Researcher, Oracle Labs"
