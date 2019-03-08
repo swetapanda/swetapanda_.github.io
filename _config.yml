@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Swetasudha Panda"
+title                    : "Brief Bio"
 title_separator          : "-"
-name                     : &name "Oracle Labs"
-description              : &description "Research Member"
+name                     : &name "Swetasudha Panda"
+description              : &description "Researcher, Oracle Labs"
 url                      : https://swetapanda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "swetapanda.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "Boston, MA"
   employer         :
   email            :  "swetasudha.panda@oracle.com"
-  linkedin         :  "www.linkedin.com/in/swetasudhapanda"
+  linkedin         :  "https://swetapanda.github.io/"
   
 
 
