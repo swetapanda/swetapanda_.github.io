@@ -52,10 +52,10 @@ Yvernault, Robert L. Galloway, Louise A. Mawn, Bennett A. Landman.</small>
 <small>Swetasudha Panda.</small>
 
 2. Stackelberg games for antibody design.<small><b> AAAI 2015 </b> </small><br />
-<small> Spring Symposium on Applied Computational Game Theory </small><br />
+<small> </b>Spring Symposium on Applied Computational Game Theory</b> </small><br />
 <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
 
-1. Regression forest region recognition enhances multi-atlas spleen labeling.  <small><b>MICCAI 2013</b></small><br /> <small>Challenge Workshop on Segmentation: Algorithms, Theory and Applications </small> <br />
+1. Regression forest region recognition enhances multi-atlas spleen labeling.  <small><b>MICCAI 2013</b></small><br /> <small><b>Challenge Workshop on Segmentation: Algorithms, Theory and Applications</b> </small> <br />
 <small>Bo Li, Swetasudha Panda, Zhoubing Xu, Andrew J. Asman, Peter L. Shanahan, Richard G. Abramson,
 Bennett A. Landman.</small>
 
