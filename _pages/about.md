@@ -47,7 +47,7 @@ A. Smith, Bennett A. Landman. </small>
 <small>Swetasudha Panda, Robert A. Harrigan, Andrew J. Asman, Michael P. DeLisi, Benjamin C. W.
 Yvernault, Robert L. Galloway, Louise A. Mawn, Bennett A. Landman.</small>
 
-<h3>Workshop Publications</h3>
+<h3>Workshops</h3>
 1. Scalable initial state interdiction for factored MDPs. <small><b> WiML 2018</b></small> <br />
 <small>Swetasudha Panda.</small>
 
