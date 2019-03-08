@@ -51,7 +51,7 @@ Yvernault, Robert L. Galloway, Louise A. Mawn, Bennett A. Landman.</small>
 1. Scalable initial state interdiction for factored MDPs. <small><b> WiML 2018</b></small> <br />
 <small>Swetasudha Panda.</small>
 
-1. Stackelberg games for antibody design.<small><b> AAAI 2015 </b> </small> [.pdf](http://swetapanda.github.io/files/CV_Sweta_Panda.pdf)<br />
+1. Stackelberg games for antibody design.<small><b> AAAI 2015 </b> </small> <br />
 <small><b>Spring Symposium on Applied Computational Game Theory</b> </small> <br />
 <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
 
