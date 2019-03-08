@@ -14,7 +14,7 @@ My current research is on machine learning and algorithmic fairness. My research
 
 For more information, please refer to my [CV](http://swetapanda.github.io/files/CV_Sweta_Panda.pdf). 
 
-<h2>REFEREED CONFERENCE PUBLICATIONS</h2>
+<h3>Conference Publications</h3>
 
 1. Scaling Hierarchical Coreference with Homomorphic Compression, <small><b>AKBC 2019 </b></small>. <br />
   <small>Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.</small>
@@ -28,6 +28,16 @@ For more information, please refer to my [CV](http://swetapanda.github.io/files/
   
 1. Stackelberg games for vaccine design, <small><b>AAMAS 2015</b></small>.<br />
   <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
+
+1. Designing vaccines that are robust to virus escape.<small><b>AAAI 2015</b></small>.<br />
+<small> Swetasudha Panda and Yevgeniy Vorobeychik.</small>
+
+1. Robust optic nerve segmentation on clinically acquired CT.<small><b>SPIE 2014</b></small>.<br />
+<small>  Swetasudha Panda, Andrew J. Asman, Michael P. DeLisi, Louise A. Mawn, Robert L. Galloway,
+Bennett A. Landman.</small>
+
+<h3>Jiurnal Publications</h3>
+
   
 
 
