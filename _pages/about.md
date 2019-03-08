@@ -16,7 +16,7 @@ For more information, please refer to my [CV](http://swetapanda.github.io/files/
 
 <h2>REFEREED CONFERENCE PUBLICATIONS</h2>
 
-1. Scaling Hierarchical Coreference with Homomorphic Compression, <b>AKBC 2019 </b>. <br />
+1. Scaling Hierarchical Coreference with Homomorphic Compression, <small><b>AKBC 2019 </b></small>. <br />
   <small>Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.</small>
   
 1. Scalable initial state interdiction for factored MDPs, <b>IJCAI 2018</b>.<br />
