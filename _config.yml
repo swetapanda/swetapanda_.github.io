@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Swetasudha Panda"
+title                    : "Welcome to my webpage!"
 title_separator          : "-"
 name                     : &name "Swetasudha Panda"
 description              : &description "Researcher, Oracle Labs"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Swetasudha Panda"
   avatar           : "picture_profile.JPG"
-  bio              : "Research Member, Oracle Labs"
+  bio              : "Researcher, Oracle Labs"
   location         : "Boston, MA"
   employer         :
   email            :  "swetasudha.panda@oracle.com"
