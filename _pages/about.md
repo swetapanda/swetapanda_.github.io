@@ -12,7 +12,7 @@ I am Sweta, a senior member of technical staff at the [Machine Learning Research
 
 My current research is on machine learning and algorithmic fairness. My broad research interests include computational game theory, large-scale stochastic planning problems: markov decision processes (MDPs), machine learning, optimization, reinforcement learning, multiagent systems and artificial intelligence.
 
-For more information, please refer to my [CV](https://www.dropbox.com/s/hriw6m1sa13nlpg/CV_Sweta.pdf?dl=0).  
+For more information, please refer to my [CV](http://swetapanda.github.io/files/CV_Sweta.pdf).  
 
 
 
