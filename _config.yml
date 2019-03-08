@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to my webpage!"
+title                    : "Swetasudha Panda"
 title_separator          : "-"
-name                     : &name "Swetasudha Panda"
-description              : &description "Researcher, Oracle Labs"
+name                     : &name "Oracle Labs"
+description              : &description "Research Member"
 url                      : https://swetapanda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "swetapanda.github.io"
