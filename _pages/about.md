@@ -14,20 +14,20 @@ My current research is on machine learning and algorithmic fairness. My research
 
 For more information, please refer to my [CV](http://swetapanda.github.io/files/CV_Sweta_Panda.pdf).  
 
-<h4>REFEREED CONFERENCE PUBLICATIONS</h4>
+<h2>REFEREED CONFERENCE PUBLICATIONS</h2>
 
-1. Scaling Hierarchical Coreference with Homomorphic Compression, AKBC 2019.
-  Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan
+1. Scaling Hierarchical Coreference with Homomorphic Compression, <b>AKBC 2019 </b>. <br />
+  <small>Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.</small>
   
-1. Scalable initial state interdiction for factored MDPs, IJCAI 2018.
-  Swetasudha Panda and Yevgeniy Vorobeychik.
+1. Scalable initial state interdiction for factored MDPs, <b>IJCAI 2018</b>.<br />
+  <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
   
   
-1. Near-optimal interdiction of factored MDPs, UAI 2017.
-  Swetasudha Panda and Yevgeniy Vorobeychik.
+1. Near-optimal interdiction of factored MDPs, <b>UAI 2017</b>.<br />
+  <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
   
-1. Stackelberg games for vaccine design, AAMAS 2015.
-  Swetasudha Panda and Yevgeniy Vorobeychik.
+1. Stackelberg games for vaccine design, <b>AAMAS 2015</b>.<br />
+  <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
   
 
 
