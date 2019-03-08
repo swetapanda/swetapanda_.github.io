@@ -16,12 +16,18 @@ For more information, please refer to my [CV](http://swetapanda.github.io/files/
 
 Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- Scaling Hierarchical Coreference with Homomorphic Compression.
+  Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan
+  Automated Knowledge Base Construction (AKBC) 2019.
+– Scalable initial state interdiction for factored MDPs.
+  Swetasudha Panda and Yevgeniy Vorobeychik.
+  International Joint Conference on Artificial Intelligence (IJCAI) 2018.
+– Near-optimal interdiction of factored MDPs.
+  Swetasudha Panda and Yevgeniy Vorobeychik.
+  Uncertainty in Artificial Intelligence (UAI) 2017.
+– Stackelberg games for vaccine design.
+  Swetasudha Panda and Yevgeniy Vorobeychik.
+  Autonomous Agents and Multiagent Systems (AAMAS) 2015.
 
 
 
