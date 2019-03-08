@@ -50,9 +50,11 @@ Yvernault, Robert L. Galloway, Louise A. Mawn, Bennett A. Landman.</small>
 <h3>Workshop Publications</h3>
 1. Scalable initial state interdiction for factored MDPs. <small><b> WiML 2018</b></small><br />
 <small>Swetasudha Panda.</small>
-2. Stackelberg games for antibody design.<small><b> AAAI 2015 Spring Symposium</b></small>on Applied Computational Game Theory<br />
+
+2. Stackelberg games for antibody design.<small><b> AAAI 2015 Spring Symposium</b></small> on Applied Computational Game Theory<br />
 <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
-1. Regression forest region recognition enhances multi-atlas spleen labeling.  <small><b>MICCAI Challenge 2013</b></small> workshop on Segmentation: Algorithms, Theory and Applications <br />
+
+1. Regression forest region recognition enhances multi-atlas spleen labeling.  <small><b>MICCAI Challenge 2013</b></small> Workshop on Segmentation: Algorithms, Theory and Applications <br />
 <small>Bo Li, Swetasudha Panda, Zhoubing Xu, Andrew J. Asman, Peter L. Shanahan, Richard G. Abramson,
 Bennett A. Landman.</small>
 
