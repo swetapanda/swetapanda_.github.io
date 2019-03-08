@@ -17,27 +17,19 @@ For more information, please refer to my [CV](http://swetapanda.github.io/files/
 Publications
 ======
 - Scaling Hierarchical Coreference with Homomorphic Compression.
-
   Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan
-  
   Automated Knowledge Base Construction (AKBC) 2019.
   
 – Scalable initial state interdiction for factored MDPs.
-
   Swetasudha Panda and Yevgeniy Vorobeychik.
-  
   International Joint Conference on Artificial Intelligence (IJCAI) 2018.
   
 – Near-optimal interdiction of factored MDPs.
-
   Swetasudha Panda and Yevgeniy Vorobeychik.
-  
   Uncertainty in Artificial Intelligence (UAI) 2017.
   
 – Stackelberg games for vaccine design.
-
   Swetasudha Panda and Yevgeniy Vorobeychik.
-  
   Autonomous Agents and Multiagent Systems (AAMAS) 2015.
 
 
