@@ -19,14 +19,14 @@ For more information, please refer to my [CV](http://swetapanda.github.io/files/
 1. Scaling Hierarchical Coreference with Homomorphic Compression, <small><b>AKBC 2019 </b></small>. <br />
   <small>Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.</small>
   
-1. Scalable initial state interdiction for factored MDPs, <b>IJCAI 2018</b>.<br />
+1. Scalable initial state interdiction for factored MDPs, <small><b>IJCAI 2018</b></small>.<br />
   <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
   
   
-1. Near-optimal interdiction of factored MDPs, <b>UAI 2017</b>.<br />
+1. Near-optimal interdiction of factored MDPs, <small><b>UAI 2017</b></small>.<br />
   <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
   
-1. Stackelberg games for vaccine design, <b>AAMAS 2015</b>.<br />
+1. Stackelberg games for vaccine design, <small><b>AAMAS 2015</b></small>.<br />
   <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
   
 
